@@ -27,4 +27,12 @@
 |  |
 | ------- |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Nischay88/Leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
+## Math
+|  |
+| ------- |
+| [1925-count-square-sum-triples](https://github.com/Nischay88/Leetcode/tree/master/1925-count-square-sum-triples) |
+## Enumeration
+|  |
+| ------- |
+| [1925-count-square-sum-triples](https://github.com/Nischay88/Leetcode/tree/master/1925-count-square-sum-triples) |
 <!---LeetCode Topics End-->
