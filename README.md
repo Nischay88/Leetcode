@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nischay88/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [3583-count-special-triplets](https://github.com/Nischay88/Leetcode/tree/master/3583-count-special-triplets) |
 ## String
 |  |
 | ------- |
@@ -35,4 +36,12 @@
 |  |
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/Nischay88/Leetcode/tree/master/1925-count-square-sum-triples) |
+## Array
+|  |
+| ------- |
+| [3583-count-special-triplets](https://github.com/Nischay88/Leetcode/tree/master/3583-count-special-triplets) |
+## Counting
+|  |
+| ------- |
+| [3583-count-special-triplets](https://github.com/Nischay88/Leetcode/tree/master/3583-count-special-triplets) |
 <!---LeetCode Topics End-->
