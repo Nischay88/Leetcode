@@ -36,6 +36,7 @@
 ## Math
 |  |
 | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Nischay88/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1925-count-square-sum-triples](https://github.com/Nischay88/Leetcode/tree/master/1925-count-square-sum-triples) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Nischay88/Leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Enumeration
@@ -45,6 +46,7 @@
 ## Array
 |  |
 | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Nischay88/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Nischay88/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1711-count-good-meals](https://github.com/Nischay88/Leetcode/tree/master/1711-count-good-meals) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Nischay88/Leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
@@ -79,6 +81,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Nischay88/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Nischay88/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Nischay88/Leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [3531-count-covered-buildings](https://github.com/Nischay88/Leetcode/tree/master/3531-count-covered-buildings) |
