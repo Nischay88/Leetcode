@@ -18,6 +18,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nischay88/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Nischay88/Leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Nischay88/Leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2222-number-of-ways-to-select-buildings](https://github.com/Nischay88/Leetcode/tree/master/2222-number-of-ways-to-select-buildings) |
 | [3606-coupon-code-validator](https://github.com/Nischay88/Leetcode/tree/master/3606-coupon-code-validator) |
 ## Sliding Window
@@ -42,6 +43,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Nischay88/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1925-count-square-sum-triples](https://github.com/Nischay88/Leetcode/tree/master/1925-count-square-sum-triples) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Nischay88/Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Nischay88/Leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Nischay88/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Nischay88/Leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Enumeration
@@ -69,6 +71,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Nischay88/Leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2222-number-of-ways-to-select-buildings](https://github.com/Nischay88/Leetcode/tree/master/2222-number-of-ways-to-select-buildings) |
 ## Prefix Sum
 |  |
