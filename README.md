@@ -22,6 +22,7 @@
 | [1513-number-of-substrings-with-only-1s](https://github.com/Nischay88/Leetcode/tree/master/1513-number-of-substrings-with-only-1s) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Nischay88/Leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2222-number-of-ways-to-select-buildings](https://github.com/Nischay88/Leetcode/tree/master/2222-number-of-ways-to-select-buildings) |
+| [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/Nischay88/Leetcode/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 | [3606-coupon-code-validator](https://github.com/Nischay88/Leetcode/tree/master/3606-coupon-code-validator) |
 ## Sliding Window
 |  |
