@@ -19,6 +19,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nischay88/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Nischay88/Leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
+| [0944-delete-columns-to-make-sorted](https://github.com/Nischay88/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Nischay88/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/Nischay88/Leetcode/tree/master/1513-number-of-substrings-with-only-1s) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Nischay88/Leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -63,6 +64,7 @@
 |  |
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Nischay88/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0944-delete-columns-to-make-sorted](https://github.com/Nischay88/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Nischay88/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1711-count-good-meals](https://github.com/Nischay88/Leetcode/tree/master/1711-count-good-meals) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Nischay88/Leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
