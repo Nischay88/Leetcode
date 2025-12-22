@@ -50,6 +50,7 @@
 |  |
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Nischay88/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0528-random-pick-with-weight](https://github.com/Nischay88/Leetcode/tree/master/0528-random-pick-with-weight) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/Nischay88/Leetcode/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1925-count-square-sum-triples](https://github.com/Nischay88/Leetcode/tree/master/1925-count-square-sum-triples) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Nischay88/Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -65,6 +66,7 @@
 |  |
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Nischay88/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0528-random-pick-with-weight](https://github.com/Nischay88/Leetcode/tree/master/0528-random-pick-with-weight) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Nischay88/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Nischay88/Leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Nischay88/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -94,6 +96,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0528-random-pick-with-weight](https://github.com/Nischay88/Leetcode/tree/master/0528-random-pick-with-weight) |
 | [2222-number-of-ways-to-select-buildings](https://github.com/Nischay88/Leetcode/tree/master/2222-number-of-ways-to-select-buildings) |
 ## Brainteaser
 |  |
@@ -137,4 +140,12 @@
 |  |
 | ------- |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Nischay88/Leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0528-random-pick-with-weight](https://github.com/Nischay88/Leetcode/tree/master/0528-random-pick-with-weight) |
+## Randomized
+|  |
+| ------- |
+| [0528-random-pick-with-weight](https://github.com/Nischay88/Leetcode/tree/master/0528-random-pick-with-weight) |
 <!---LeetCode Topics End-->
