@@ -67,6 +67,7 @@
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Nischay88/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0528-random-pick-with-weight](https://github.com/Nischay88/Leetcode/tree/master/0528-random-pick-with-weight) |
+| [0729-my-calendar-i](https://github.com/Nischay88/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Nischay88/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Nischay88/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Nischay88/Leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -129,6 +130,7 @@
 ## Design
 |  |
 | ------- |
+| [0729-my-calendar-i](https://github.com/Nischay88/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Nischay88/Leetcode/tree/master/0731-my-calendar-ii) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/Nischay88/Leetcode/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 ## Queue
@@ -147,6 +149,7 @@
 |  |
 | ------- |
 | [0528-random-pick-with-weight](https://github.com/Nischay88/Leetcode/tree/master/0528-random-pick-with-weight) |
+| [0729-my-calendar-i](https://github.com/Nischay88/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Nischay88/Leetcode/tree/master/0731-my-calendar-ii) |
 ## Randomized
 |  |
@@ -155,9 +158,11 @@
 ## Segment Tree
 |  |
 | ------- |
+| [0729-my-calendar-i](https://github.com/Nischay88/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Nischay88/Leetcode/tree/master/0731-my-calendar-ii) |
 ## Ordered Set
 |  |
 | ------- |
+| [0729-my-calendar-i](https://github.com/Nischay88/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Nischay88/Leetcode/tree/master/0731-my-calendar-ii) |
 <!---LeetCode Topics End-->
