@@ -28,6 +28,7 @@
 | [2222-number-of-ways-to-select-buildings](https://github.com/Nischay88/Leetcode/tree/master/2222-number-of-ways-to-select-buildings) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Nischay88/Leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/Nischay88/Leetcode/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/Nischay88/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3606-coupon-code-validator](https://github.com/Nischay88/Leetcode/tree/master/3606-coupon-code-validator) |
 ## Sliding Window
 |  |
@@ -104,6 +105,7 @@
 | [0731-my-calendar-ii](https://github.com/Nischay88/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/Nischay88/Leetcode/tree/master/0732-my-calendar-iii) |
 | [2222-number-of-ways-to-select-buildings](https://github.com/Nischay88/Leetcode/tree/master/2222-number-of-ways-to-select-buildings) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/Nischay88/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Brainteaser
 |  |
 | ------- |
