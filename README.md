@@ -83,6 +83,7 @@
 | [1679-max-number-of-k-sum-pairs](https://github.com/Nischay88/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1711-count-good-meals](https://github.com/Nischay88/Leetcode/tree/master/1711-count-good-meals) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Nischay88/Leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [1895-largest-magic-square](https://github.com/Nischay88/Leetcode/tree/master/1895-largest-magic-square) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Nischay88/Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Nischay88/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Nischay88/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -112,6 +113,7 @@
 | [0528-random-pick-with-weight](https://github.com/Nischay88/Leetcode/tree/master/0528-random-pick-with-weight) |
 | [0731-my-calendar-ii](https://github.com/Nischay88/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/Nischay88/Leetcode/tree/master/0732-my-calendar-iii) |
+| [1895-largest-magic-square](https://github.com/Nischay88/Leetcode/tree/master/1895-largest-magic-square) |
 | [2222-number-of-ways-to-select-buildings](https://github.com/Nischay88/Leetcode/tree/master/2222-number-of-ways-to-select-buildings) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Nischay88/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Brainteaser
@@ -142,6 +144,7 @@
 | ------- |
 | [0840-magic-squares-in-grid](https://github.com/Nischay88/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Nischay88/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1895-largest-magic-square](https://github.com/Nischay88/Leetcode/tree/master/1895-largest-magic-square) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Nischay88/Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 ## Design
 |  |
