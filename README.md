@@ -46,6 +46,7 @@
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Nischay88/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Nischay88/Leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 ## Tree
 |  |
@@ -78,6 +79,7 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Nischay88/Leetcode/tree/master/0055-jump-game) |
+| [0085-maximal-rectangle](https://github.com/Nischay88/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Nischay88/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0528-random-pick-with-weight](https://github.com/Nischay88/Leetcode/tree/master/0528-random-pick-with-weight) |
 | [0692-top-k-frequent-words](https://github.com/Nischay88/Leetcode/tree/master/0692-top-k-frequent-words) |
@@ -112,6 +114,7 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Nischay88/Leetcode/tree/master/0055-jump-game) |
+| [0085-maximal-rectangle](https://github.com/Nischay88/Leetcode/tree/master/0085-maximal-rectangle) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Nischay88/Leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Nischay88/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Nischay88/Leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -152,6 +155,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Nischay88/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0840-magic-squares-in-grid](https://github.com/Nischay88/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Nischay88/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1895-largest-magic-square](https://github.com/Nischay88/Leetcode/tree/master/1895-largest-magic-square) |
@@ -235,4 +239,8 @@
 |  |
 | ------- |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Nischay88/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/Nischay88/Leetcode/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
